@@ -7,7 +7,6 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 I'm currently pursuing my studies as a second year undergraduate student of Computer Science and Engineering Department of University of Moratuwa, Sri Lanka.
 
 ### 📌 I code with
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -25,4 +24,3 @@ I'm currently pursuing my studies as a second year undergraduate student of Comp
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-###
