@@ -1,4 +1,4 @@
-![Banner](README.png)
+![Banner](https://www.canva.com/design/DAGLH8KE7Y0/18XoZT951JYE1dH3E4TlSQ/view?utm_content=DAGLH8KE7Y0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="25" height="25" /> About Me
