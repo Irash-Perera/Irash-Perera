@@ -1,5 +1,5 @@
 ![Banner](README2.png)
-View My Portfolio [![Portfolio](https://img.shields.io/badge/Irash-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irash-perera.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Irash-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irash-perera.netlify.app/)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="25" height="25" /> About Me
@@ -10,6 +10,7 @@ View My Portfolio [![Portfolio](https://img.shields.io/badge/Irash-000000?style=
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> You can reach me at: `irash.21@cse.mrt.ac.lk`
 
+[![Portfolio](https://img.shields.io/badge/Irash-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irash-perera.netlify.app/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/210471F_CSE_21)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/irash210471f)
 
