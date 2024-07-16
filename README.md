@@ -1,5 +1,5 @@
 ![Banner](README2.png)
-[![Portfolio](https://img.shields.io/badge/ViewMyPortfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irash-perera.netlify.app/)
+View My Portfolio [![Portfolio](https://img.shields.io/badge/Irash-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://irash-perera.netlify.app/)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="25" height="25" /> About Me
