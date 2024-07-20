@@ -23,5 +23,5 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="50">
 </div>
