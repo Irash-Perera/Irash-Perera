@@ -14,13 +14,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,arduino)](https://skillicons.dev)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,pug,css,arduino)](https://skillicons.dev)
 
-### Machine Learning and Data Manipulation
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="25" height="25" /> Machine Learning and Data Manipulation
 <div>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="50">
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="50">
     <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow.svg" width="50">
     <img src="https://numpy.org/images/logo.svg" width="50">
@@ -38,7 +38,7 @@
     <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="70">
 </div>
 
-### Web Development
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Web Development
 <div>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
