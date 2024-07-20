@@ -47,5 +47,5 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
 </div>
