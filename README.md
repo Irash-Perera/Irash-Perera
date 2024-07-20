@@ -33,5 +33,19 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50">
     <img src="https://i.imgur.com/BdWJk0i.png" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kaggle.svg" width="50">
+    <img src="https://avatars.githubusercontent.com/u/53104118?s=200&v=4" width="50">
     <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="70">
+</div>
+
+### Web Development
+<div>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" width="50">
 </div>
