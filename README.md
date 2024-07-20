@@ -16,3 +16,9 @@
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,arduino)](https://skillicons.dev)
+
+### Machine Learning and Data Manipulation
+<div>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/superbase.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/superbase.svg" width="50">
+</div>
