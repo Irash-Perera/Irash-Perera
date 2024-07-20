@@ -12,14 +12,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/210471F_CSE_21)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black)](https://www.kaggle.com/irash210471f)
 
-## Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
 
 ### Languages
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50">
-<img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="50">
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,arduino)](https://skillicons.dev)
