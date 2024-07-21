@@ -49,4 +49,3 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
 </div>
-[![Irash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Irash-Perera)](https://github.com/ashutosh00710/github-readme-activity-graph)
