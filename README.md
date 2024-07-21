@@ -49,3 +49,4 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
 </div>
+![](https://komarev.com/ghpvc/?username=Irash-Perera)
