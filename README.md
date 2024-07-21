@@ -49,5 +49,4 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
 </div>
-
-![Irash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irash-Perera&show_icons=true&bg_color=00000000)
+[![Irash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Irash-Perera&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
