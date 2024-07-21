@@ -49,3 +49,5 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
 </div>
+
+![Irash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irash-Perera&show_icons=true&bg_color=00000000)
