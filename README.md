@@ -23,7 +23,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="50">
     <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow.svg" width="50">
-    <img src="https://numpy.org/images/logo.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/chroma-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="50">
     <img src="https://avatars.githubusercontent.com/u/134601687?s=200&v=4" width="50">
