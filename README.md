@@ -48,5 +48,8 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
+    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="50">
+    
 </div>
 
