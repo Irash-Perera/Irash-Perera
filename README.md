@@ -31,6 +31,7 @@
     <img src="https://raw.githubusercontent.com/HanaokaYuzu/Gemini-API/master/assets/banner.png" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" width="50">
     <img src="https://www.iconsdb.com/icons/preview/soylent-red/wolfram-alpha-xxl.png" width="50">
+    <img src="https://docs.ragas.io/en/stable/_static/imgs/ragas-logo.png" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50">
     <img src="https://i.imgur.com/BdWJk0i.png" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter.svg" width="50">
