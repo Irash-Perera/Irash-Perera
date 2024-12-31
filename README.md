@@ -40,7 +40,7 @@
     <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="70">
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Web Development
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Application Development
 <div>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
