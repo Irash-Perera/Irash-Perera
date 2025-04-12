@@ -1,6 +1,9 @@
 ![Banner](banner.png)
+<div align="right">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [Click here to visit my website](https://irash-perera.github.io/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> <a href="https://irash-perera.github.io/" style="text-decoration: none;">Click here to visit my website</a>
+
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="25" height="25" /> About Me
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> I'm a third year undergraduate at the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka.
