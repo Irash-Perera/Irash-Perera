@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.jpg)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [Click here to visit my website](https://irash-perera.github.io/)
 
