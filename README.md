@@ -1,5 +1,5 @@
 
-![Banner](banner.png)
+![Banner](banner2.png)
 
 <div align="right">
 
